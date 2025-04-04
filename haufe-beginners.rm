@@ -1,0 +1,26 @@
+# Project *Studentious*
+Create a web application for group learning sessions.
+
+# Mandatory
+- Web application running in the browser.
+- User can generate an event
+- Users can sign up to event
+
+# Scoring
+- General look and feel: 100 - 1000
+- Code quality: 100 - 1000
+- Configurability: 100 - 1000
+
+# Stretch goals. Adds to score *up to*:
+- Calendar integration: 200
+- Can submit curricula: 200
+- Can auto-summarize curricula: 200
+- Frontend/Backend implementation: 500 each
+- Accessible online, not just from local machine: 500
+- Event chatroom: 200
+- Event recommendations: 200
+- Curricula-to-audio/podcast: 500
+
+# Evaluation
+Participants will show code/implementation to jury to validate their work.
+Git must be used.
